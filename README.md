@@ -19,7 +19,8 @@ The term paper presents a critical review of emerging 6G technologies and propos
 - Discussed the role of semantic and goal-oriented communication in future networks.
 
 ## File
-- `A_Critical_Review_of_6G_Use_Cases_and_Challenges.pdf`
+-  [Term Paper PDF](A_Critical_Review_of_6G_Use_Cases_and_Challenges.pdf)
+
 
 ## Author
 Akshat Singh Rajpoot &
