@@ -22,7 +22,7 @@ The term paper presents a critical review of emerging 6G technologies and propos
 - `A_Critical_Review_of_6G_Use_Cases_and_Challenges.pdf`
 
 ## Author
-Akshat Singh Rajpoot 
+Akshat Singh Rajpoot &
 Ambuj Dwivedi
 M.Tech, Communication Engineering  
 Indian Institute of Technology Delhi
